@@ -1,0 +1,47 @@
+/* EXPERIENCE */
+.experience {
+    padding: 60px 80px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* job block */
+.job {
+    margin-bottom: 40px;
+}
+
+/* header (title + date) */
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* title */
+.job-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* date */
+.job-date {
+    font-size: 14px;
+    color: #aaa;
+}
+
+/* company */
+.job-company {
+    font-style: italic;
+    margin: 5px 0 10px;
+    color: #bbb;
+}
+
+/* list */
+.job-list {
+    padding-left: 20px;
+}
+
+.job-list li {
+    margin-bottom: 6px;
+    color: #ccc;
+}
